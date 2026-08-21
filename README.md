@@ -38,3 +38,6 @@ This is where I save handy scripts, shells, pyhton. Not payloads but system proc
 ## 📫 Connect with me
 
 - **LinkedIn:** https://www.linkedin.com/in/pabloyfdez
+<p align="center">
+  <img src="Images/joke.svg" alt="Hacking Matrix Animation" width="100%">
+</p>
