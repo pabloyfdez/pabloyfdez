@@ -17,11 +17,11 @@ I bridge the gap between secure code development and cyber defense. With a backg
 ## 🧪 Featured Projects
 
 ### 🌐 My Write-Ups
-*Brief description:* Click here to read through my machine write-ups. Most of them are performed in the HackTheBox platform.
+*Click here to read through my machine write-ups. Most of them are performed in the HackTheBox platform.
 - 📁 **Repository:** https://github.com/pabloyfdez/HTB_WriteUps
 
 ### 🎯 My scripts & tools
-*Brief description:* This is where I save handy scripts, shells, pyhton. Not payloads but system process monitors instead.
+This is where I save handy scripts, shells, pyhton. Not payloads but system process monitors instead.
 - 📁 **Repository:** https://github.com/pabloyfdez/UsefulScripts_Linux
 
 ---
