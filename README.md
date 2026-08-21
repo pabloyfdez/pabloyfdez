@@ -6,6 +6,7 @@
 ### 💻 Software & Web Developer | 🛡️ Offensive Security & Defensive Analyst
 
 I bridge the gap between secure code development and cyber defense. With a background in **Software & Web Development**, combined with **eJPT and eWPT certifications**, I build, audit, and analyze web services from both a developer's and an attacker's mindset while actively tracking security events.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pabloyfdez/)
 
 ---
