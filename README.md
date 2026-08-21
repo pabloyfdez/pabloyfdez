@@ -5,7 +5,7 @@ I bridge the gap between secure code development and cyber defense. With a backg
 
 ---
 <p align="center">
-  <img src="Images/matrix.gif" alt="Hacking Matrix Animation" width="100%">
+  <img src="Images/jokepsh1.svg" alt="Hacking Matrix Animation" width="100%">
 </p>
 ---
 ## 🛠️ Expertise & Technical Skills
