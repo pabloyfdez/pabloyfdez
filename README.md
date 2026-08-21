@@ -1,12 +1,12 @@
 # ¡Hi! My name is Pablo Fernández 👋
+<p align="center">
+  <img src="Images/typing-svg.svg" alt="Hacking Matrix Animation" width="100%">
+</p>
+
 ### 💻 Software & Web Developer | 🛡️ Offensive Security & Defensive Analyst
 
 I bridge the gap between secure code development and cyber defense. With a background in **Software & Web Development**, combined with **eJPT and eWPT certifications**, I build, audit, and analyze web services from both a developer's and an attacker's mindset while actively tracking security events.
 
----
-<p align="center">
-  <img src="Images/jokepsh1.svg" alt="Hacking Matrix Animation" width="100%">
-</p>
 ---
 ## 🛠️ Expertise & Technical Skills
 
