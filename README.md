@@ -1,6 +1,6 @@
 # ¡Hi! My name is Pablo Fernández 👋
 <p align="center">
-  <img src="Images/typing-svg.svg" alt="Hacking Matrix Animation" width="90%">
+  <img src="Images/typing-svg.svg" alt="Hi!" width="80%">
 </p>
 
 ### 💻 Software & Web Developer | 🛡️ Offensive Security & Defensive Analyst
@@ -39,5 +39,5 @@ This is where I save handy scripts, shells, pyhton. Not payloads but system proc
 
 - **LinkedIn:** https://www.linkedin.com/in/pabloyfdez
 <p align="center">
-  <img src="Images/joke.svg" alt="Hacking Matrix Animation" width="100%">
+  <img src="Images/joke.svg" alt="Joke" width="80%">
 </p>
