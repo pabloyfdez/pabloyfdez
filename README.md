@@ -1,6 +1,6 @@
 # ¡Hi! My name is Pablo Fernández 👋
 <p align="center">
-  <img src="Images/typing-svg.svg" alt="Hacking Matrix Animation" width="100%">
+  <img src="Images/typing-svg.svg" alt="Hacking Matrix Animation" width="90%">
 </p>
 
 ### 💻 Software & Web Developer | 🛡️ Offensive Security & Defensive Analyst
