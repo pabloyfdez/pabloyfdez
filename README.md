@@ -1,16 +1,36 @@
-## Hi there 👋
+# ¡Hi! My name is Pablo Fernández 👋
+### 💻 Software & Web Developer | 🛡️ Offensive Security & Defensive Analyst
 
-<!--
-**pabloyfdez/pabloyfdez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge the gap between secure code development and cyber defense. With a background in **Software & Web Development**, combined with **eJPT and eWPT certifications**, I build, audit, and analyze web services from both a developer's and an attacker's mindset while actively tracking security events.
 
-Here are some ideas to get you started:
+---
+## 🛠️ Expertise & Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Full-Stack Security:** Designing secure web applications, code review, and identifying architectural flaws.
+- **Offensive Security (Red Team):** Web application penetration testing, vulnerability exploitation, and network assessments.
+- **Defensive Analysis (Blue Team):** Threat tracking, security event monitoring, and incident analysis.
+
+### Technologies & Tools
+`Python` `JavaScript` `PHP` `Linux` `Burp Suite` `Nmap` `Metasploit` `Wireshark` `Git`
+
+---
+## 🧪 Featured Projects
+
+### 🌐 My Write-Ups
+*Brief description:* Click here to read through my machine write-ups. Most of them are performed in the HackTheBox platform.
+- 📁 **Repository:** https://github.com/pabloyfdez/HTB_WriteUps
+
+### 🎯 My scripts & tools
+*Brief description:* This is where I save handy scripts, shells, pyhton. Not payloads but system process monitors instead.
+- 📁 **Repository:** https://github.com/pabloyfdez/UsefulScripts_Linux
+
+---
+## 🏆 Certifications & Platforms
+
+- **Certifications:** eJPT (eLearnSecurity Junior Penetration Tester) | eWPT (eLearnSecurity Web Application Penetration Tester) | Cisco Ethical Hacker | Certified Phishing Prevention Specialist
+- **Education:** Higher Certificate in Software and Web Development
+
+---
+## 📫 Connect with me
+
+- **LinkedIn:** https://www.linkedin.com/in/pabloyfdez
