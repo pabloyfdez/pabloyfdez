@@ -16,7 +16,9 @@ I bridge the gap between secure code development and cyber defense. With a backg
 - **Offensive Security (Red Team):** Web application penetration testing, vulnerability exploitation, and network assessments.
 - **Defensive Analysis (Blue Team):** Threat tracking, security event monitoring, and incident analysis.
 
-**My Certifications/Studies:** 
+---
+## 📚 Education & Certifications:
+
 - **Development**: **Higher Certificate** in Web Application Development (Irish NFQ level 6)
 - **Cybersecurity:** eWPT | eJPT | Cisco Ethical Hacker | Certified Phishing Prevention Specialist (CPPS)
   
