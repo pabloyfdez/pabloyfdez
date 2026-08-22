@@ -18,7 +18,7 @@ I bridge the gap between secure code development and cyber defense. With a backg
 
 **My Certifications:** 
 - **Higher Certificate** in Web Application Development (Irish NFQ level 6)
-- **Cybersecurity:**
+- **Cybersecurity:** eWPT | eJPT | Cisco Ethical Hacker | Certified Phishing Prevention Specialist (CPPS)
   
 [![INE Security: eWPT](https://img.shields.io/badge/eWPT-FF6B35?style=for-the-badge&logo=ine&logoColor=white)](https://certs.ine.com/e98e724d-b29f-4a39-a4f3-66bb9481c99f#acc.F4RroTG7)
 [![INE Security: eJPT](https://img.shields.io/badge/eJPT-FF6B35?style=for-the-badge&logo=ine&logoColor=white)](https://certs.ine.com/efcb5f31-423f-4256-9ec1-4ea3b5713935#acc.obSVvk7O)
