@@ -10,6 +10,13 @@ I bridge the gap between secure code development and cyber defense. With a backg
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pabloyfdez/)
 
 ---
+## 🛠️ Expertise & Technical Skills
+
+- **Full-Stack Security:** Designing secure web applications, code review, and identifying architectural flaws.
+- **Offensive Security (Red Team):** Web application penetration testing, vulnerability exploitation, and network assessments.
+- **Defensive Analysis (Blue Team):** Threat tracking, security event monitoring, and incident analysis.
+
+---
 ## 📚 Education & Certifications:
 
 - **Development**: **Higher Certificate** in Web Application Development (Irish NFQ level 6)
@@ -52,13 +59,6 @@ I bridge the gap between secure code development and cyber defense. With a backg
 [![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
----
-## 🛠️ Expertise & Technical Skills
-
-- **Full-Stack Security:** Designing secure web applications, code review, and identifying architectural flaws.
-- **Offensive Security (Red Team):** Web application penetration testing, vulnerability exploitation, and network assessments.
-- **Defensive Analysis (Blue Team):** Threat tracking, security event monitoring, and incident analysis.
 
 ---
 ## 🧪 Featured Projects
