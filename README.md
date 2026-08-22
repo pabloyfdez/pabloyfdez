@@ -10,24 +10,6 @@ I bridge the gap between secure code development and cyber defense. With a backg
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pabloyfdez/)
 
 ---
-## 🧪 Featured Projects
-
-### 🌐 My Write-Ups
-*Click here to read through my machine write-ups. Most of them are performed in the HackTheBox platform.
-- 📁 **Repository:** https://github.com/pabloyfdez/HTB_WriteUps
-
-### 🎯 My scripts & tools
-This is where I save handy scripts, shells, pyhton. Not payloads but system process monitors instead.
-- 📁 **Repository:** https://github.com/pabloyfdez/UsefulScripts_Linux
-
----
-## 🛠️ Expertise & Technical Skills
-
-- **Full-Stack Security:** Designing secure web applications, code review, and identifying architectural flaws.
-- **Offensive Security (Red Team):** Web application penetration testing, vulnerability exploitation, and network assessments.
-- **Defensive Analysis (Blue Team):** Threat tracking, security event monitoring, and incident analysis.
-
----
 ## 📚 Education & Certifications:
 
 - **Development**: **Higher Certificate** in Web Application Development (Irish NFQ level 6)
@@ -72,6 +54,24 @@ This is where I save handy scripts, shells, pyhton. Not payloads but system proc
 [![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 ---
+## 🛠️ Expertise & Technical Skills
+
+- **Full-Stack Security:** Designing secure web applications, code review, and identifying architectural flaws.
+- **Offensive Security (Red Team):** Web application penetration testing, vulnerability exploitation, and network assessments.
+- **Defensive Analysis (Blue Team):** Threat tracking, security event monitoring, and incident analysis.
+
+---
+## 🧪 Featured Projects
+
+### 🌐 My Write-Ups
+*Click here to read through my machine write-ups. Most of them are performed in the HackTheBox platform.
+- 📁 **Repository:** https://github.com/pabloyfdez/HTB_WriteUps
+
+### 🎯 My scripts & tools
+This is where I save handy scripts, shells, pyhton. Not payloads but system process monitors instead.
+- 📁 **Repository:** https://github.com/pabloyfdez/UsefulScripts_Linux
+
+
 <p align="center">
   <img src="Images/joke.svg" alt="Joke" width="80%">
 </p>
