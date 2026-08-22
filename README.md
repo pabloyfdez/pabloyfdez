@@ -17,6 +17,7 @@ I bridge the gap between secure code development and cyber defense. With a backg
 - **Defensive Analysis (Blue Team):** Threat tracking, security event monitoring, and incident analysis.
 
 **My Certifications:** 
+
 [![INE Security: eWPT](https://img.shields.io/badge/eWPT-FF6B35?style=for-the-badge&logo=ine&logoColor=white)](https://certs.ine.com/e98e724d-b29f-4a39-a4f3-66bb9481c99f#acc.F4RroTG7)
 [![INE Security: eJPT](https://img.shields.io/badge/eJPT-FF6B35?style=for-the-badge&logo=ine&logoColor=white)](https://certs.ine.com/efcb5f31-423f-4256-9ec1-4ea3b5713935#acc.obSVvk7O)
 [![Cisco Ethical Hacker](https://img.shields.io/badge/Cisco_Ethical_Hacker-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/9b73bb13-27a2-4cea-8d77-390e84c54365)
@@ -24,6 +25,7 @@ I bridge the gap between secure code development and cyber defense. With a backg
 
 ### Technologies & Tools
 **Cybersecurity:**
+
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
 [![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp)
 [![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)](https://www.zaproxy.org/)
@@ -37,12 +39,14 @@ I bridge the gap between secure code development and cyber defense. With a backg
 [![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/)
 
 **Databases:**
+
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)](https://www.w3schools.com/sql/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/linq/)
 
 **Development:**
+
 [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
 [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
